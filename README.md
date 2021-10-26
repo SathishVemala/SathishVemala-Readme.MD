@@ -1,5 +1,5 @@
 # SathishVemala-Readme.MD<h1 align="center">Hi 👋, I'm Sathish Vemala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishvemala&label=Profile%20views&color=0e75b6&style=flat" alt="sathishvemala" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **Front End Development**
+- 🌱 I’m currently learning **Android App Development Course**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
