@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Open Source Projects**
 
-- 💬 Ask me about **C,C++& Python**
+- 💬 Ask me about **HTML, CSS, Javascript, Python, SQL**
 
 - 📫 How to reach me **sathisathishkumar28@gmail.com**
 
